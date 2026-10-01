@@ -99,10 +99,6 @@ hooks:
 - Coleção de ilustrações de licença livre (Fase 8).
 - Regra de PIN esquecido (assumido: sem recuperação, biometria como alternativa).
 
-## Backlog
-
-Publicação na Google Play e política de privacidade, modo gravidez, lembrete de pílula, refinamento da ovulação por corrimento, versão iPhone, acessibilidade completa.
-
 ## Aviso sobre dados
 
 Este repositório não contém dados pessoais. O arquivo `teste_cripto.db` é gerado apenas no aparelho, em teste, e não é versionado.
